@@ -1,0 +1,1 @@
+A simple app to test how well cordova packs a web application and renders an apk file.
